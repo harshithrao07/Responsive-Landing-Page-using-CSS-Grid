@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://harshithrao07.github.io/Responsive-Landing-Page-using-CSS-Grid/)
 
 ## My process
 
