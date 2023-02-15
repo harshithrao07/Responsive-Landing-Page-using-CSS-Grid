@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://harshithrao07.github.io/Responsive-Landing-Page-using-CSS-Grid/)
+- Live Site URL: (https://harshithrao07.github.io/Responsive-Landing-Page-using-CSS-Grid-Challenge-from-FrontEnd-Mentor/)
 
 ## My process
 
